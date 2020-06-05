@@ -1,5 +1,5 @@
 # COVID Statistics
 
 
-[**Please click here **](https://iginitin.github.io/igiwebsite/)
+**Please click here ** [Link](https://iginitin.github.io/igiwebsite/)
 
